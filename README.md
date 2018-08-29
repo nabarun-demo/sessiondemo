@@ -1,1 +1,1 @@
-# sessiondemo
+# session-demo
